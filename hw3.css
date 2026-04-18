@@ -61,11 +61,9 @@ footer {
 }
 
 #footer {
-    text-align: center;
-    font-family: "optima", sans-serif;
-    font-weight: normal;
     margin: 0;
-    padding-top: 10px;
+    text-align: center;
+    line-height: 45px; 
 }
 
 label {

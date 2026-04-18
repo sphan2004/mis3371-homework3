@@ -59,11 +59,11 @@ footer {
     bottom: 0;
     width: 100%;
     background-color: #4CAF50;
-    height: 2.0rem;
+    height: 45px;
 }
 
 #footer {
-    text-align: right;
+    text-align: center;
     font-family: "optima", sans-serif;
     font-weight: normal;
     margin-right: 10px;
